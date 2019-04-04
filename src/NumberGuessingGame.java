@@ -10,7 +10,7 @@ public class NumberGuessingGame {
         checkNumber(pickedNumber,guess);
         System.out.println("Guess again, you have two mor tries.");
         checkNumber(pickedNumber,guess);
-        System.out
+        System.out.println("Guess ");
     }
 
     public static void checkNumber(int pickedNumber, int guess) {
